@@ -1,8 +1,6 @@
 # QApEx Utility
 Simple tool to manipulate IBM QRadar data through API from command line as batch tasks or in interactive pseudo-shell.
 
-Version: 0.0.1
-
 ## Prerequisites for script
 1. Install Python 3.9 or later
 2. Add additional Python modules
