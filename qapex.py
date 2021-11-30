@@ -1,8 +1,8 @@
 # qapex# -*- coding: utf-8 -*-
 """
 NAME: QApEx
-VERSION: 0.0.1
-COMMIT: initial empty commit
+VERSION: 0.0.2
+COMMIT: GitHub Commit test
 AUTHOR: Dmytro Petrashchuk
 EMAIL: dpgbox@gmail.com
 
