@@ -1,4 +1,4 @@
-# qapex# -*- coding: utf-8 -*-
+# qapex # -*- coding: utf-8 -*-
 """
 NAME: QApEx
 VERSION: 0.0.2
